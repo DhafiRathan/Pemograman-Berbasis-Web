@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.category {
+    font-size: 14px;
+    color: #555;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    color: #222;
+}
+
+.author {
+    font-size: 14px;
+    text-align: center;
+    color: #555;
+}
+
+.daftar {
+    padding: 0 20px;
+    margin: 0 20px;    
+}
+
+h3 {
+    font-size: 18px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+ol li {
+    margin: 10px;
+}
+
+ol li a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+.content {
+    padding: 0 20px;
+    margin: 0 20px;    
+    background: white;
+}
+
+h2 {
+    font-size: 20px;
+    color: #222;
+}
+
+p {
+    text-align: justify;
+    color: #777;
+}
+
+.first-letter {
+    font-size: 28px;
+    font-weight: bold;
+    color: #000;
+}
+
+.content-reference {
+    color: #555;
+}
+
+.reference {
+    font-style: italic;
+    color: #666;
+    text-align: right;
+}
